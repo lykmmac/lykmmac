@@ -1,4 +1,4 @@
-#- 👋 Hi, I’m @lykmmac
+# 👋 Hi, I’m @lykmmac
 - 👀 I’m interested in Python and testing
 - 🌱 I’m currently learning Python, Postman, Selenium and Git
 - 💞️ I’m looking to collaborate on projects where I can imporove my knowledge and experience
