@@ -1,6 +1,6 @@
-# 👋 Hi, I’m @lykmmac
-- 👀 I’m interested in Python and testing
-- 🌱 I’m currently learning Python, Postman, Selenium and Git
+# 👋 Hello
+- 👀 I’m interested in Linux and Bash
+- 🌱 I’m currently learning Linux, Bash, Networking and Git
 - 💞️ I’m looking to collaborate on projects where I can imporove my knowledge and experience
 - 📫 How to reach me... You can find me on LinkedIn
 
