@@ -5,7 +5,7 @@
 <!---
 lykmmac/lykmmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 
 ## Some notes for the future
 
@@ -13,3 +13,4 @@ You can click the Preview link to take a look at your changes.
 - poems about the world and life
 - angels in our church
 - meaning of life
+-->
